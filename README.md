@@ -1,6 +1,6 @@
 # Digit_Recognition
 
-Small project using a Convolutional Neural Network to digit classification using MNIST dataset.
+Small project to explore Convolutional Neural Networks based models to perform digit recognition using MNIST dataset.
 
 **Results**
 * 238 errors in 10000 test examples
